@@ -17,3 +17,6 @@ Requirements
 
 Reference
 + Classifying Text with Neural Networks and TensorFlow: https://github.com/dmesquita/understanding_tensorflow_nn
+
+Screenshot
+![screenshot](./img/result.png)
